@@ -1,0 +1,16 @@
+C:\Users\Savy\source\repos\TicketAPI\bin\Release\net8.0\publish\TicketAPI.exe
+C:\Users\Savy\source\repos\TicketAPI\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Savy\source\repos\TicketAPI\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Savy\source\repos\TicketAPI\bin\Release\net8.0\publish\TicketAPI.dll
+C:\Users\Savy\source\repos\TicketAPI\bin\Release\net8.0\publish\TicketAPI.runtimeconfig.json
+C:\Users\Savy\source\repos\TicketAPI\bin\Release\net8.0\publish\TicketAPI.pdb
+C:\Users\Savy\source\repos\TicketAPI\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\Savy\source\repos\TicketAPI\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Savy\source\repos\TicketAPI\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Savy\source\repos\TicketAPI\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\Savy\source\repos\TicketAPI\bin\Release\net8.0\publish\Npgsql.dll
+C:\Users\Savy\source\repos\TicketAPI\bin\Release\net8.0\publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Savy\source\repos\TicketAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Savy\source\repos\TicketAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Savy\source\repos\TicketAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Savy\source\repos\TicketAPI\bin\Release\net8.0\publish\TicketAPI.deps.json

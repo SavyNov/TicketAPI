@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+  db:
+    image: postgres
+    container_name: db
+    restart: always
+    ports:
+      - 5433:5432
+    environment:
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=root
+      - POSTGRES_DB=TicketDB
